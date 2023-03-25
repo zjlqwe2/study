@@ -1,0 +1,2531 @@
+Dennis Hood: Morning. Everybody
+
+Dennis Hood: that was break good break
+
+Darek Nowak: very quick break.
+
+Darek Nowak: which was the longer
+
+Dennis Hood: time, is an excellent metric. I like the way that you use that to assess the break? The rest of that was subjective.
+
+Dennis Hood: but I would tend to agree. It could have been longer.
+
+1:31
+
+Dennis Hood: I I don't wanna
+
+1:40
+
+Dennis Hood: stretch it too far. But there are many metrics that we could use to assess, something like the goodness of the break which is inherently
+
+1:42
+
+Dennis Hood: subjective. Right, and many of the metrics would kind of head down that path.
+
+1:51
+
+Dennis Hood: How much fun was it, how relaxing was it? You know there's a lot of things where we could say, Those are those are data points. That's what we're going forward with metrics that we have. These points of data that allow us in a more objective way to assess something or describe something.
+
+1:58
+
+Dennis Hood: We are almost always talking about things that have this this less than perfect
+
+2:18
+
+Dennis Hood: sense of evaluation, capability because of the subjectivity and metrics are a huge leap into correcting that.
+
+2:31
+
+Dennis Hood: So time is a really good one. because we've got units of measure. It is numeric meaning. There's a number line, so we get relative
+
+2:45
+
+Dennis Hood: time.
+
+3:00
+
+Dennis Hood: We can do math on it. You know it's a number so we can do math on it.
+
+3:04
+
+Dennis Hood: There are a lot of things. Oh, it it is a concept that is very familiar to really just about anybody
+
+3:08
+
+Dennis Hood: time. and and what the meaning of time is. So if you talk well, it was a week. Okay. Everybody knows what a week is right. and then we see it start to break down.
+
+3:18
+
+Dennis Hood: because the assessment of the of the data
+
+3:30
+
+Dennis Hood: can still be subjective.
+
+3:36
+
+Dennis Hood: It can be subjected to subjectivity because it was a week for everybody. Some people may look at that and say.
+
+3:40
+
+Dennis Hood: Well, that's a long time.
+
+3:50
+
+Dennis Hood: Others would look at it and say that wasn't nearly long enough, that how can we have these 2 different assessments of something so well understood. It's a week, a week is a week. We can do it in hours. We can do it in minutes. We can do it in fractions of months, or years, or centuries, or whatever the numbers all work out the same for everybody
+
+3:52
+
+Dennis Hood: but the assessment of the meaning of it, the value of it
+
+4:11
+
+Dennis Hood: that becomes personal again. And now we're back where we started.
+
+4:17
+
+Dennis Hood: There's a couple of things there, though, when it comes to something like the assessment of the value
+
+4:25
+
+Dennis Hood: of the week
+
+4:32
+
+Dennis Hood: where we didn't have to do stuff.
+
+4:34
+
+Dennis Hood: If you didn't have to do any work, if you didn't have to show up for lectures. You didn't have to do any homework or take a test, or anything like that. The value of that. Oh, it it's tremendously valuable. So if it only last for a week.
+
+4:37
+
+Dennis Hood: that doesn't seem like long enough. it's, it's a it's a segment of time that is no different than this week. But this week you're doing work last week you didn't have to do work.
+
+4:53
+
+Dennis Hood: So just about all of us in our assessment of
+
+5:06
+
+Dennis Hood: what went on last week, we would say it was a week just like this week will be a week, and the week before spring break was a week, and next week will be a week. They're all weeks.
+
+5:10
+
+Dennis Hood: But, boy, that was a good one, and I wish it lasted longer. That's where the human element would come in.
+
+5:19
+
+Dennis Hood: But, generally speaking, when when we are trying to assess things, we were doing a lot of discussion about process improvement stuff, and then on into
+
+5:25
+
+Dennis Hood: root cause, and
+
+5:35
+
+Dennis Hood: you know, what what can we understand about
+
+5:39
+
+Dennis Hood: the way we do work? And what can we learn from every instance of executing on something where we could do it better next time
+
+5:43
+
+Dennis Hood: and without metrics.
+
+5:53
+
+Dennis Hood: It's just gonna, you know, without objective data points, measurability. It's just going to sit there as this subjective kind of gut reaction
+
+5:56
+
+Dennis Hood: that whatever we're doing, we can have certain feelings about it like I feel pretty good about it, but I know it could be better.
+
+6:08
+
+Dennis Hood: and everybody involved can offer up that same kind of subjectivity. and it's hard to make progress in terms of process. Improvement when we've got subjectivity like that.
+
+6:16
+
+Dennis Hood: It's not impossible. It's better than nothing. But you should be able to look at that and say. if we had it on a scale of one to 10
+
+6:28
+
+Dennis Hood: instead of just looking at. You know, our software development process doesn't feel good enough to me or something, you know, really subjective. If if instead, we said, it's a 7.2 on a scale of one to 10,
+
+6:38
+
+Dennis Hood: and we want to get to at least a 9.
+
+6:52
+
+Dennis Hood: Now we've got something more concrete that we don't have to debate 7.2 on a scale of one to 10. Everybody knows what that means.
+
+6:56
+
+Dennis Hood: If we need more information like. By the way, one is the worst, and 10 is the best, or some. We we can frame it like that, and then everybody knows what it means. and if we go from 7.2 to 7, point 5, everybody would know that that's movement in a good direction.
+
+7:03
+
+Dennis Hood: Everyone would have a sense of how much movement in that good direction, and we might differ with things like is the rate of change fast enough? Are we improving fast enough. Not everybody is going to agree to that.
+
+7:19
+
+Dennis Hood: But the magnitude of the change and the relative sense of how much change those are just numbers. the meaning behind it gets back into subjectivity, but
+
+7:34
+
+Dennis Hood: the ability to measure it and put it in terms that are so
+
+7:45
+
+Dennis Hood: easily understood and and similarly understood by everybody involves really important in terms of things like making improvement. And we were talking about big
+
+7:51
+
+Dennis Hood: things in terms of process, like the engineering of a software system. the the entire organization. When you look at the capability maturity model, they're looking at the entire organization. It might be a company of 200,000 people.
+
+8:02
+
+Dennis Hood: How capable is that 200,000 person
+
+8:19
+
+Dennis Hood: organization of producing high quality software systems?
+
+8:24
+
+Dennis Hood: That's a big thing. And if we have 200,000 different opinions on that. Then we're gonna struggle to get better.
+
+8:28
+
+Dennis Hood: Some of the 200,000 would say, we don't even have to get better. We're good enough as we are. We couldn't get any better. Some people would even say that others would say, we stink.
+
+8:40
+
+Dennis Hood: and there's nothing we can do. We'll always stink
+
+8:51
+
+Dennis Hood: those you've got to get rid of. But there would be some of the 200,000 who have that kind of attitude as well.
+
+8:54
+
+Dennis Hood: and then you'd have everything in between. and it would be difficult to identify specific things to do and measure. Did they work, which is really the bigger
+
+9:00
+
+Dennis Hood: issue with not having good metrics is. if we're dealing with something complex, the the software development process just an example of a very complex process. We could talk about things that are a little bit more direct, and things that have been around a little bit longer, like the hiring practice
+
+9:12
+
+Dennis Hood: or the financial management practice of a company.
+
+9:29
+
+Dennis Hood: and we would run into the same problem. We we would be saying
+
+9:35
+
+Dennis Hood: that we want to get better at this thing. So we've got in mind something that might make this better. Let's try it. and then we go ahead and do some like we come up with a new way of hiring.
+
+9:41
+
+Dennis Hood: We're going to interview someone 3 times instead of 2 or something like that.
+
+9:57
+
+Dennis Hood: We're going to come up with a new way of keeping track of the money that we're spending as a company. We're going to use a different tool.
+
+10:01
+
+Dennis Hood: We're going to come up with
+
+10:09
+
+Dennis Hood: a new way of engineering software systems
+
+10:12
+
+Dennis Hood: like we're gonna do.
+
+10:17
+
+Dennis Hood: We're gonna use some new tools. We're gonna have some new checklists in place. We're gonna come up with a new documentation strategy. We're gonna reorganize the software development team. There's all kinds of things that we could do that arguably would make it better.
+
+10:20
+
+Dennis Hood: But they're big and they're complex. And when we do them they're disruptive.
+
+10:37
+
+Dennis Hood: and if we can't measure how good we are in definitive objective terms
+
+10:44
+
+Dennis Hood: and watch the organization go from 7.2 to 7.5 on a scale of one to 10.
+
+10:52
+
+Dennis Hood: Then how do we know whether the thing worked or not? Right like? If you said the hiring process, which is much more straightforward. Then building
+
+10:58
+
+Dennis Hood: sophisticated software systems.
+
+11:11
+
+Dennis Hood: You, said I, we as an organization, want to get better at hiring people. So we want to hire
+
+11:14
+
+Dennis Hood: more capable people, and we want to be able to do that
+
+11:20
+
+Dennis Hood: with less effort. So we want to more quickly hire better people. Those are 2 different objectives, but they're
+
+11:25
+
+Dennis Hood: pretty central to a process like that.
+
+11:34
+
+Dennis Hood: and somebody says, Well, I don't know why don't. We interview 3 times instead of 2, you know. Anytime we bring people in for interviews. We talk to them once we bring them back. Talk to them a second time. Then we make a decision. Why, don't we bring it back a third time and see if that helps.
+
+11:37
+
+Dennis Hood: Everyone agrees. It's a good idea. Then we go ahead and we start doing that?
+
+11:52
+
+Dennis Hood: How do we know if it's working?
+
+11:57
+
+Dennis Hood: And you could say, Well, because you're gonna either get better people or not get better people.
+
+12:00
+
+Dennis Hood: But how do you measure how good the people are
+
+12:07
+
+Dennis Hood: with certain kinds of positions. Measuring the productivity is pretty straightforward.
+
+12:11
+
+Dennis Hood: We're talking about software development here. There's nothing straightforward measuring the capability of a newly hired software engineer
+
+12:19
+
+Dennis Hood: usually takes some time because you have to have that person, you know, learn about our way of doing things, and
+
+12:30
+
+Dennis Hood: we have to wait for a project to come along. That that person can be assigned some work on. Then that person is going to execute our process to the best of their ability, and they're going to produce work, but that's going to take a while, and then that work gets produced. Of course it'll be assessed
+
+12:38
+
+Dennis Hood: in a fairly short period of time with things like, you know, our reactive testing, and if the code is buggy, then you know that will be evidence
+
+12:56
+
+Dennis Hood: of a lack of capability. So we will start to collect some evidence. But if it's a big, complicated software system.
+
+13:08
+
+Dennis Hood: then a few bugs. A few failed tests, not
+
+13:17
+
+Dennis Hood: truly an indication of an incapable human.
+
+13:20
+
+Dennis Hood: And we'd be looking for things like the sophistication of the code.
+
+13:27
+
+Dennis Hood: Is it a good sophisticated solution. Is it efficient code? Does it run quickly? Is it robust?
+
+13:30
+
+Dennis Hood: Is it code that we could reuse for some future effort?
+
+13:36
+
+Dennis Hood: There's a lot of different ways to measure the productivity of a software engineering. Really, I'm just talking about a programmer. If we are talking about a software engineer, we are probably getting into things like
+
+13:41
+
+Dennis Hood: the ability to design effective solutions to complex problems. architectural type work. We could be talking about the analysts function where the quality functions
+
+13:53
+
+Dennis Hood: and measuring the productivity. I mean, even like a tester. How many tests per hour can a tester run? Maybe that's the measure of productivity.
+
+14:09
+
+Dennis Hood: How do we measure the goodness of a programmer?
+
+14:19
+
+Dennis Hood: Yes, if they're producing code that has defects that's going to count against them?
+
+14:25
+
+Dennis Hood: How would we measure
+
+14:30
+
+Dennis Hood: the goodness of a programmer.
+
+14:33
+
+Dennis Hood: What metrics do you think we could use
+
+14:37
+
+Dennis Hood: any ideas?
+
+14:44
+
+Dennis Hood: We'll see how hard this is? Because if we can't do that. I think if you think about it a little bit, you'll come up with a few. but if you couldn't
+
+14:50
+
+Dennis Hood: come up with
+
+15:02
+
+Dennis Hood: ways to measure how good a programmer is, how good a programmer is this person?
+
+15:03
+
+Dennis Hood: If you can't come up with ways to measure that. then how are we going to know if our hiring process got better when we decided to do 3 interviews instead of 2,
+
+15:09
+
+Dennis Hood: when we decided to exclusively hire from Illinois Tech as opposed to some other places.
+
+15:20
+
+Dennis Hood: How do we know it's working? Sounded like a good idea. But how do we know it's working?
+
+15:26
+
+Dennis Hood: We would want to see the measurable performance of the people hired.
+
+15:31
+
+Dennis Hood: and if that
+
+15:38
+
+Dennis Hood: indicates that we now have better people.
+
+15:39
+
+Dennis Hood: if we have enough of that evidence which is going to take a while.
+
+15:43
+
+Dennis Hood: But if we had enough of that evidence. Then we could point back to the change that we put in place all of that whole thing of interviewing a third time. Look at the numbers.
+
+15:48
+
+Dennis Hood: It indicates that we now have better people.
+
+15:57
+
+Dennis Hood: But if you can't think of any way to measure how good a programmer is, then
+
+16:02
+
+Dennis Hood: we're not going to be able to go off anything other than our gut reaction a subjective opinion, is it working or not?
+
+16:07
+
+Dennis Hood: I don't know that person we hired brings in Donuts every Friday. I think it's working great.
+
+16:14
+
+Dennis Hood: I mean, how would you measure how good a programmer is?
+
+16:19
+
+Dennis Hood: Any ideas?
+
+16:26
+
+Dennis Hood: If you're a software quality manager. You're gonna want to know how to assess the capability and the performance of everybody involved in producing that software
+
+16:30
+
+Dennis Hood: programmer is one of the more straightforward positions.
+
+16:44
+
+Dennis Hood: We could be talking about the quality people. That's where you would have your most significant responsibility as a software quality manager.
+
+16:49
+
+Dennis Hood: But we could also be talking about the architects who are designing solutions where every architectural decision is potentially
+
+16:58
+
+Dennis Hood: trading off multiple requirements like it's got to be good at this.
+
+17:08
+
+Dennis Hood: and it also has to be good at this other thing, good at security, and run fast and be easy to use.
+
+17:13
+
+Dennis Hood: and we can't have all of those. So when a good architect is deciding amongst these things which should be prioritized, and all that kind of stuff that's hard to measure.
+
+17:19
+
+Dennis Hood: The analysts who are figuring out what the requirements should be. That's hard to measure, too. But let's just stick with the programmer. How would you measure the capability of a of a software programmer.
+
+17:30
+
+Dennis Hood: If you were a software quality manager in an organization.
+
+17:41
+
+Dennis Hood: what do you think?
+
+17:49
+
+Darek Nowak: The only thing I can come to my mind is.
+
+17:51
+
+Darek Nowak: I guess. Compare the
+
+17:54
+
+Darek Nowak: well, depending on like what they do like, what components of a program they do, comparing the mean time between, like their failures of like their components. That could be maybe one thing.
+
+17:56
+
+Dennis Hood: Yeah. So a especially, you know, coming from this perspective of responsibility for quality where we judge quality often by. You know the the presence or absence of defects. It makes sense
+
+18:06
+
+Dennis Hood: it it. Another thing about metrics like I. Another thing that I could have said about the use of time as a measure of was something good or bad? Is not only is it a concept that's familiar to everyone? Not only does it work with numbers which is great.
+
+18:22
+
+Dennis Hood: It's also really easy to collect.
+
+18:38
+
+Dennis Hood: We have calendars, we have watches, we have all kinds of things, sundials that help us collect the data.
+
+18:41
+
+Dennis Hood: So as a software quality manager, you are absolutely going to be up to your ear lobes in defect, information in test results and things like that.
+
+18:48
+
+Dennis Hood: So it becomes
+
+19:01
+
+Dennis Hood: a a bit of a
+
+19:05
+
+Dennis Hood: we who we have to be a little bit careful. It's kind of seductive that if you have data. Then you want to use that data for a lot of different purposes, and it may not be appropriate in all situations. But as a software Quality manager. You're going to have all kinds of information about defects.
+
+19:07
+
+Dennis Hood: How many defects are in the code that this person is writing?
+
+19:24
+
+Dennis Hood: How many
+
+19:28
+
+Dennis Hood: modules that this person puts together past test. How frequently does this person put something together that Doesn't Pass test?
+
+19:31
+
+Dennis Hood: The data is going to be there.
+
+19:44
+
+Dennis Hood: Maybe with some manipulation. The date will be there. But the the data is not very far from your fingertips. That's the important thing, and it is so. If it indicates if it helps to indicate something like success or failure, good or bad.
+
+19:53
+
+Dennis Hood: then you should try and take advantage of it. so that that's one area that would really have potential.
+
+20:07
+
+Dennis Hood: How good is this programmer? Well, I I don't know how frequently do we find that the work they do has defects. How many defects. How serious are the defects, how many
+
+20:17
+
+Dennis Hood: pieces of work that this person produces past tests versus failed, tests
+
+20:30
+
+Dennis Hood: it's a good place to start
+
+20:37
+
+Dennis Hood: measuring
+
+20:41
+
+Dennis Hood: productivity in the world of software has been a problem right from the beginning. and it there is an awful lot of research out there, and an awful lot of
+
+20:43
+
+Dennis Hood: attempts
+
+20:56
+
+Dennis Hood: at coming up with
+
+20:58
+
+measurability for this
+
+21:02
+
+Dennis Hood: going back to lines of code per unit time.
+
+21:04
+
+Dennis Hood: and we can talk all day long about why, that's not a very effective metric, but it's another one of those things where it you have it.
+
+21:11
+
+Dennis Hood: Like the programmers are writing code. You can just look at how many lines of code they write.
+
+21:19
+
+Dennis Hood: and that must indicate something right.
+
+21:26
+
+Dennis Hood: It's an available metric.
+
+21:31
+
+Dennis Hood: But the truth is, it's not a very good one.
+
+21:34
+
+Dennis Hood: The truth is, it's hard to find good ones.
+
+21:37
+
+Dennis Hood: Okay.
+
+21:42
+
+Dennis Hood: What do we need to talk about gatekeeping? Oh, yeah, gatekeeping. So.
+
+21:45
+
+Dennis Hood: gatekeeping, we we've talked about this concept in a couple of different ways. Already it's part of the the life cycle
+
+21:55
+
+Dennis Hood: that we have places during the development
+
+22:05
+
+Dennis Hood: where assessment is being done.
+
+22:10
+
+Dennis Hood: So the software engineering effort
+
+22:14
+
+Dennis Hood: can be. The book ended by
+
+22:18
+
+Dennis Hood: the origin of the development effort
+
+22:24
+
+Dennis Hood: being some kind of business relationship type thing, right? Customer calls up. Says, I want you to build me a piece of software people at a business level work out what that means come up with contracts, contracts, get signed. Then.
+
+22:29
+
+you know, away we go.
+
+22:43
+
+Dennis Hood: That's the beginning. It's as good an attempt. And figuring out where the whole thing starts as as anything else. I mean it's it's basically the beginning of the engineering effort. Where does it end? Well.
+
+22:45
+
+Dennis Hood: we look at engineering as producing something to the acceptability of the customer side as the end.
+
+23:00
+
+Dennis Hood: But usually we look at that as being pretty iterative like
+
+23:14
+
+Dennis Hood: it is the end for now for the current version. And then we're gonna keep working to evolve the system.
+
+23:21
+
+Dennis Hood: So it's not really the end. But if we want to look at the development effort.
+
+23:28
+
+Dennis Hood: we can break it down into the segments that are being delivered.
+
+23:34
+
+Dennis Hood: and at a business level. If we're matching it up with that starting point, it would be user acceptance test
+
+23:40
+
+Dennis Hood: where a given version that has its own set of requirements
+
+23:47
+
+Dennis Hood: comes to completion, and the way it comes to completion is the engineering team produces the software system, and the users say it is good enough. It works
+
+23:53
+
+Dennis Hood: and they accept it. There's a lot there that
+
+24:04
+
+Dennis Hood: needs, you know, tighter
+
+24:09
+
+Dennis Hood: definition. But that that's basically the beginnings and and beginning and end of a software development life cycle for a given version.
+
+24:12
+
+Dennis Hood: And we just put
+
+24:22
+
+Dennis Hood: one version after another, and a system is now evolving from version one to version, 2 version, 3 with a development lifecycle going on for each one.
+
+24:24
+
+Dennis Hood: and that's a fine way to look at it. I think
+
+24:33
+
+Dennis Hood: so. What's happening in the middle of that development effort? Well.
+
+24:38
+
+Dennis Hood: software development very naturally, I think, evolved to where
+
+24:43
+
+Dennis Hood: it's a pretty iterative exploration because of the
+
+24:51
+
+Dennis Hood: sophistication of the technology side of it, and the the challenge, especially when we're talking about big complex, maybe mission critical systems.
+
+24:56
+
+Dennis Hood: the challenge of gaining
+
+25:06
+
+Dennis Hood: solid understanding of what the users needs are and what the technology is capable of in terms of delivering a system to meet those needs, there's a lot to figure out. So when we have that beginning part of the cycle.
+
+25:09
+
+Dennis Hood: the contractual obligation of signing off on the contract here is what we're going to do for version. One, for instance. we really don't know for the kind of system development that we're talking about in this course.
+
+25:23
+
+Dennis Hood: where we have some fairly large scale fairly complicated, fairly important systems
+
+25:38
+
+Dennis Hood: at the beginning, when those contracts are on, we really Don't, have all the detail of what it is that's going to be built, and that's a threat to our success. So we can just put that out there.
+
+25:44
+
+Dennis Hood: How do we overcome that? Well, we work at it as part of the engineering effort. We have early discussions
+
+25:55
+
+Dennis Hood: about
+
+26:02
+
+Dennis Hood: exactly what is required, and we try to get into deeper and deeper detail, and we try to get better and better requirements in terms of
+
+26:03
+
+Dennis Hood: removing ambiguity.
+
+26:12
+
+Dennis Hood: So we try to state things as clearly as possible, and that's an iterative venture all by itself.
+
+26:14
+
+Dennis Hood: We start off at a very high level, we drive into detail. We also tend to move forward in the process
+
+26:20
+
+Dennis Hood: with once we gain a little bit of understanding, we can start to produce a possible solution prototyping in the
+
+26:30
+
+Dennis Hood: software development world. But this is the way it's done in really most engineering life cycles.
+
+26:39
+
+Dennis Hood: We could put a prototype together pretty quickly, even with a limited understanding of what the system supposed to be, and especially in the world of software this is not like.
+
+26:45
+
+Dennis Hood: you know.
+
+26:55
+
+Dennis Hood: building buildings or building bridges, or something like that. We can put a a prototype of a finished system together pretty quickly.
+
+26:56
+
+Dennis Hood: where all we have to do is fashion together a couple of crude user interfaces with a little bit of navigation, capability. limited functionality. But a little bit there that we can talk about.
+
+27:08
+
+Dennis Hood: and in a very short period of time, at very low cost, we have something that we can put in front of a user and they can even play with it potentially. And we can have good conversations along the lines of is this what you want
+
+27:18
+
+Dennis Hood: which is really a means
+
+27:31
+
+Dennis Hood: of furthering that analysis.
+
+27:35
+
+Dennis Hood: So the analysis of exploring the requirements is difficult for the kind of engineering that we're talking about. because
+
+27:39
+
+Dennis Hood: even the user probably has a somewhat limited
+
+27:48
+
+Dennis Hood: understanding of what they really want, this system to be
+
+27:52
+
+Dennis Hood: what what they see as a solution system.
+
+27:56
+
+Dennis Hood: They don't have a complete understanding, and neither to the engineers, and they come from 2 different perspectives. The users are looking at it from their own personal need. They need a tool.
+
+28:01
+
+Dennis Hood: so they're thinking of what that tool should do.
+
+28:12
+
+Dennis Hood: and the engineers are looking at it from the standpoint of creating tools and what they're looking at
+
+28:15
+
+Dennis Hood: is the architectural solutions, the design
+
+28:23
+
+Dennis Hood: framing of a solution system. And then the code that will implement all of that.
+
+28:28
+
+Dennis Hood: So they they look at information architecture. They look at algorithms. They look at user interface design, very different perspective. So we've got these 2 different worlds that are coming together, and each one has this problem of limited understanding.
+
+28:33
+
+Dennis Hood: And how do we overcome that?
+
+28:47
+
+Dennis Hood: Will you try something, and then assess it to see what you think So Prototyping is a great vehicle for that. You can put a prototype together very quickly. You can get everyone together, including the user side engineers and user side come together and look at this
+
+28:50
+
+Dennis Hood: prototype that we put together pretty quick quickly, and ask questions about how good is this? Does this meet the need?
+
+29:06
+
+Dennis Hood: Does this seem to match what is required.
+
+29:14
+
+Dennis Hood: and if it is not done. if it comes up short in any way. if it's wrong, if it is poor. if it fails to do something.
+
+29:19
+
+Dennis Hood: Any of those things can be called out at that point in time and explored so we could throw a quick prototype together.
+
+29:32
+
+Dennis Hood: and the users can look at it and say, I hate these colors. or
+
+29:40
+
+Dennis Hood: you shouldn't name things the way you're naming things or the transactions Aren't going to proceed in that
+
+29:45
+
+Dennis Hood: series of steps that you've got in this prototype. It's going to be different. It should be different.
+
+29:54
+
+Dennis Hood: They can be highly critical of all kinds of things, after all, it's their tool.
+
+29:59
+
+Dennis Hood: and the engineers don't have to get too upset about it, because they're just putting this prototype together to get this kind of feedback, anyway. and they could throw the whole thing out. What's the difference? It only took us a couple of days to put a prototype together. We could throw the thing in the trash. Nobody's going to care.
+
+30:05
+
+Dennis Hood: It'll be easy for us to improve upon it, you know. We're not gonna really throw it in the trash we'll, we'll take the goods of it and keep them in the bad parts. We'll hit the delete button, and then we'll take the feedback that we get from the user looking at the prototype
+
+30:21
+
+Dennis Hood: and enhance to a better prototype.
+
+30:37
+
+Dennis Hood: and then we'll do it again. and we'll do that over and over and in iterative fashion as we move closer and closer to the finished product. That's the way we engineer solutions
+
+30:42
+
+Dennis Hood: when the problems are complex. When the definition of the problem is a little bit hard to nail down when the technical underpinnings of the solution system are sophisticated.
+
+30:54
+
+Dennis Hood: This is a good approach to engineering a solution.
+
+31:09
+
+Dennis Hood: We'll focus on prototypes that can be put together quickly and used for this kind of assessment.
+
+31:13
+
+Dennis Hood: So where does gatekeeping come in? Well. the assessments that are being done are like many tests. Right? We're we're producing something that we know is not the finished product.
+
+31:21
+
+Dennis Hood: but we have to assess it to see. Is it good or bad? Is it acceptable or not?
+
+31:36
+
+Dennis Hood: We look at it a little bit different than the testing of a more traditional reactive
+
+31:43
+
+Dennis Hood: test cases that are being executed pass, fail, type thing. We look at it a little bit differently when it's prototypes. because we know it's not done.
+
+31:50
+
+Dennis Hood: and we are putting something forward for this kind of discussion
+
+32:00
+
+Dennis Hood: to get the feedback specifically, to hear what's missing or what's wrong. and then incorporate that and go forward to the next version. but it's still testing right?
+
+32:06
+
+Dennis Hood: I mean. Usually we would call it
+
+32:20
+
+Dennis Hood: Evaluation Assessment Review. Something like that as opposed to testing.
+
+32:24
+
+Dennis Hood: Testing. Does feel like You've got a series of steps that you're executing.
+
+32:29
+
+Dennis Hood: and a a an expectation that the thing that you are testing the system under test will either get it right or will not get it right if it gets it right, we pass. If it doesn't, we fail.
+
+32:34
+
+Dennis Hood: Prototypes are a little bit different.
+
+32:47
+
+Dennis Hood: especially early prototypes early in the process. Prototypes where we're just kind of putting together user interface and things like that.
+
+32:49
+
+But it it's still
+
+32:57
+
+Dennis Hood: that we are producing something. The engineers are producing something. It is being put.
+
+32:59
+
+Dennis Hood: you know. in an environment where it can be evaluated.
+
+33:06
+
+Dennis Hood: And then the feedback that comes from the evaluation is being incorporated to the next go around.
+
+33:13
+
+Dennis Hood: The truth is even that more traditional reactive testing is exactly the same
+
+33:20
+
+Dennis Hood: for exactly the same purpose all the way up to the very end when we get to the last stages of development.
+
+33:28
+
+Dennis Hood: And we're doing like final system, test and user acceptance tests, then we have a different attitude towards it. Like we really hope it passes.
+
+33:37
+
+You know we really needed to pass.
+
+33:47
+
+Dennis Hood: because this is success or failure of the whole venture. But before that we do, plenty of, you know. Write a bunch of code, execute test cases, see if it passes or fails.
+
+33:49
+
+Dennis Hood: where, if it fails. it's not the end of the world, because we knew we weren't at the deadline, yet we're not done yet.
+
+34:01
+
+Dennis Hood: and if it fails. we're going to take the knowledge gained from the effort.
+
+34:09
+
+Dennis Hood: What failed? Why did it fail and incorporate that into the next? Go around the next iteration and produce a better version because of that assessment.
+
+34:16
+
+Dennis Hood: So when we look at that
+
+34:30
+
+Dennis Hood: that traditional testing, especially as we get towards the end, has a feel of. If it doesn't pass.
+
+34:33
+
+Dennis Hood: then we need to fix it
+
+34:42
+
+Dennis Hood: before we move forward.
+
+34:45
+
+Dennis Hood: If we've got code and we're ready to deliver it.
+
+34:47
+
+Dennis Hood: But it fails a test.
+
+34:51
+
+Dennis Hood: Then we have to get rid of that defect. We have to fix that code before we can go forward.
+
+34:54
+
+Dennis Hood: That's a gate being kept
+
+35:04
+
+Dennis Hood: right. We think of something like a toll booth or airport security, or whatever you know, something security at a a, a, a building, or a bank, or something. You know where where you don't get to go forward until you pass the test.
+
+35:06
+
+Dennis Hood: A lot of those things that I just ran down the the the test is like a review of credentials. Do you have the
+
+35:23
+
+Dennis Hood: credentials that
+
+35:30
+
+Dennis Hood: justify letting you forward right? But this is the same basic concept.
+
+35:32
+
+Dennis Hood: If we have reactive testing and we've got a
+
+35:37
+
+Dennis Hood: a piece of code that gets produced, and then it is put under that microscope of the
+
+35:40
+
+Dennis Hood: being executed. following test cases step by step, and it either passes or fails. What do you do? If it fails? Well, you have to fix it right.
+
+35:47
+
+Dennis Hood: if to fix it so that it passes. and only then can we go forward, so that has that same feel of a gate that's being kept. You get right up to the gate.
+
+36:01
+
+Dennis Hood: present your credentials. and in the case of software being developed. it would be that's a a
+
+36:14
+
+Dennis Hood: form of executable. Early on it might be a pretty crude prototype as we go forward it's more and more sophisticated prototypes that do more and more stuff. As we go further, it is looking more and more like an actual application that could run in production, and and and by the time we get to the end that's exactly what it is.
+
+36:24
+
+Dennis Hood: But all the way through we're pulling up to the toll booth. or we're walking up to the Tsa agent at Security in the airport. and we're presenting
+
+36:43
+
+Dennis Hood: what we have produced to date for assessment.
+
+36:55
+
+Dennis Hood: and often
+
+37:02
+
+Dennis Hood: it is the user
+
+37:05
+
+Dennis Hood: or the user community
+
+37:08
+
+Dennis Hood: or our testers on the software development side
+
+37:11
+
+Dennis Hood: who are playing the role of the They're like, you know, pretending to be those users.
+
+37:15
+
+Dennis Hood: They are the ones checking the credentials.
+
+37:20
+
+Dennis Hood: and they check by reviewing a prototype by
+
+37:24
+
+Dennis Hood: reading through code in a code for view by simulating an architecture with some kind of simulator.
+
+37:32
+
+Dennis Hood: by
+
+37:42
+
+Dennis Hood: checking some work product. It might be a a design entity or something, and flow charts and entity, relationship diagrams and object models, and all these can be comparing it to
+
+37:43
+
+Dennis Hood: the defined proper structure. We could do that with code with things like naming conventions and all that kind of stuff.
+
+37:56
+
+Dennis Hood: and it could be test cases being executed with an executable
+
+38:04
+
+Dennis Hood: and a lot of other, you know, kind of variations on those themes where you are presenting something for review, and if it passes test, that means it
+
+38:09
+
+Dennis Hood: justifies, it is justifiable to let it move forward.
+
+38:19
+
+Dennis Hood: So the early prototyping we're looking at. We we know
+
+38:26
+
+Dennis Hood: we're going to move forward
+
+38:31
+
+Dennis Hood: with the knowledge that comes out of the assessment. So we have a little bit of a different feel around what the gatekeeping
+
+38:33
+
+Dennis Hood: really is.
+
+38:40
+
+Dennis Hood: But the review is going to happen right like we're not. We're not going to just skip that part.
+
+38:43
+
+Dennis Hood: We shouldn't skip that part.
+
+38:48
+
+Dennis Hood: because otherwise we fail to gain the information. But it there is a question. So I've got some participation stuff here supporting this whole thing, I I should say the reading for this week this sqa plan setting checkpoints within the life cycle. Blah blah blah!
+
+38:50
+
+Dennis Hood: I think they got paid by the character for the title of this paper, because I
+
+39:08
+
+Dennis Hood: I think they could have stripped out a few characters. I help them. I didn't use as many characters as the actual title of the paper.
+
+39:13
+
+Dennis Hood: Acronyms are wonderful in that way, right? But it the subject matter is very, very appropriate to what we're talking about here.
+
+39:22
+
+Dennis Hood: It is all about incorporating these kinds of checkpoints, gatekeeping role within the development life cycle for the purpose of
+
+39:32
+
+Dennis Hood: delivering high quality
+
+39:43
+
+Dennis Hood: for discovering and removing defects. Right that that's what this paper is all about, so be sure to read it.
+
+39:45
+
+Dennis Hood: The participation questions go right along with that. So
+
+39:53
+
+Dennis Hood: there's There's questions about, you know, like where these gates come from.
+
+40:01
+
+Dennis Hood: Is it a natural occurrence in the world? Of course not.
+
+40:08
+
+Dennis Hood: The bookends that I talked about around a software development lifecycle. They're not so natural, either. Now they they come about outside of the engineering effort in a somewhat natural way.
+
+40:12
+
+Dennis Hood: The whole thing starts when the customer
+
+40:25
+
+Dennis Hood: has submitted a request of some kind, and there's enough detail around it, and enough agreement has been reached between the customer side and the engineering side.
+
+40:28
+
+Dennis Hood: That everyone agrees we should do this thing. That's business. That's
+
+40:40
+
+Dennis Hood: legal stuff more than engineering, although engineering should be playing a significant role in things like feasibility, analysis, and estimating the time and estimating the exposure to risk, and a a estimating the cost and all that kind of stuff. Engineering should be playing a significant role. But ultimately that starting point
+
+40:45
+
+Dennis Hood: really feels more like a business thing with supported by the legal side. because it is a partnership. It's a legal partnership in most cases
+
+41:05
+
+Dennis Hood: the end.
+
+41:18
+
+Dennis Hood: if we're putting as the end user acceptance test around a defined
+
+41:22
+
+Dennis Hood: subset of the overall scope, but a a defined scope for a given version. When does the user
+
+41:29
+
+Dennis Hood: agree to accept what the engineers have produced when the user accepts it. That's when we're done
+
+41:39
+
+Dennis Hood: so. User acceptance test is a very obvious endpoint. although again, we're probably
+
+41:46
+
+Dennis Hood: at a Macro level doing multiple versions to evolve the system from version, one version 2, and so on. But you know, for a given life cycle when the engineers have produced something and the users accepted.
+
+41:53
+
+Dennis Hood: and then it can move into production and get used out in the real world. That's the end.
+
+42:07
+
+Dennis Hood: So that that's got some, you know kind of
+
+42:14
+
+Dennis Hood: natural aspects to it.
+
+42:19
+
+Dennis Hood: because, no matter how we set up the software development lifecycle. the Users aren't going to use it unless they like it. So
+
+42:22
+
+Dennis Hood: I I don't know how formal the whole thing has to be. I don't know how to find in terms of like scheduling and budgeting and staffing, and all that kind of stuff. We need to make that user acceptance test.
+
+42:35
+
+Dennis Hood: because
+
+42:51
+
+Dennis Hood: even if we don't
+
+42:54
+
+Dennis Hood: make a schedule or make a budget.
+
+42:55
+
+Dennis Hood: even if we don't put on the calendar
+
+42:58
+
+Dennis Hood: a day when this testing is going to take place. This development effort is not going to end until we get that
+
+43:01
+
+Dennis Hood: outcome until the engineers have a produce something. and the users have be accepted it. Until that happens we're still in this development life cycle
+
+43:11
+
+right?
+
+43:22
+
+Dennis Hood: So that that is kind of a natural thing, although we should bring that definition to it. So
+
+43:24
+
+Dennis Hood: it doesn't feel flimsy.
+
+43:30
+
+Dennis Hood: We really should have a schedule. We really should have a budget. We really should staff, we really should have a defined definition of what is acceptable
+
+43:33
+
+Dennis Hood: rather than
+
+43:43
+
+Dennis Hood: the engineers produce something, and then the users give a thumbs up bumps down. It should be that there is already a defined set of requirements, and that's what the engineers are building towards. And then the user acceptance task is
+
+43:45
+
+Dennis Hood: just one aspect of the verification that the engineers have produced the system correctly.
+
+44:00
+
+Dennis Hood: We already have the definition of correct. Where does that come from? That's the requirements, right? Okay.
+
+44:09
+
+Dennis Hood: So we do have to do a little work to make that final checkpoint something real.
+
+44:16
+
+Dennis Hood: And in between those bookends there is the potential for as many reviews as you want Any time anyone feels like assessing anything. They can just look at something that
+
+44:22
+
+Dennis Hood: has been produced by the engineering team and give it a thumbs up
+
+44:35
+
+Dennis Hood: and some
+
+44:41
+
+Dennis Hood: comments to go along with. That would be nice. So all the way through from beginning to end, there is the possibility showing up over and over again
+
+44:43
+
+Dennis Hood: for the work that is being done by the engineers to be put up for inspection.
+
+44:54
+
+Dennis Hood: Does it have to be done by the users. Not necessarily
+
+45:00
+
+Dennis Hood: does it have to be done formally? Not necessarily.
+
+45:04
+
+Dennis Hood: Does it have to be on a calendar of some kind like scheduled out.
+
+45:07
+
+Dennis Hood: No, not necessarily. It could be a very informal
+
+45:13
+
+Dennis Hood: it would be to our benefit to bring some formality to it just like we're talking about with the definition of acceptability at the end. It would be good to schedule it out.
+
+45:17
+
+Dennis Hood: It would be good to think about who should be part of the review.
+
+45:31
+
+Dennis Hood: It would be good to define the scope of what is to be reviewed.
+
+45:36
+
+Dennis Hood: So, even when we have those early prototypes.
+
+45:42
+
+Dennis Hood: it would be beneficial to have a definition for the engineers of what it is. We want them to prototype.
+
+45:45
+
+Dennis Hood: and it would be good to have that as a baseline a set of expectations, so that when the review takes place on a scheduled.
+
+45:53
+
+Dennis Hood: the with allocated resources, like the right people, are in the room to do the assessment all that kind of stuff. The the feedback is based on the expectation. So there is a defined
+
+46:03
+
+Dennis Hood: deliverable even for early prototypes that define deliverable. and it gets reviewed in a defined way at a defined point in time.
+
+46:16
+
+Dennis Hood: And then the feedback is basically
+
+46:28
+
+Dennis Hood: an assessment of what was produced as compared to what was expected.
+
+46:32
+
+Dennis Hood: actual versus expected, which is the same as any other testing right even for early prototypes. We can do that. But those things don't occur naturally.
+
+46:38
+
+Dennis Hood: and certainly to say that it is a gate being capped. That terminology i'm using that terminology very intentionally
+
+46:50
+
+Dennis Hood: when you go to airport security
+
+47:03
+
+Dennis Hood: and you step up to the security checkpoint.
+
+47:06
+
+Dennis Hood: You don't get to decide whether you get to go through to your plane or not. Somebody else
+
+47:11
+
+Dennis Hood: who has authority
+
+47:19
+
+Dennis Hood: makes that decision, and if they don't want you to go forward, you don't go forward. That's a gate being kept.
+
+47:23
+
+Dennis Hood: How how does that really work?
+
+47:35
+
+Dennis Hood: I mean.
+
+47:38
+
+Dennis Hood: who decided that we needed that?
+
+47:42
+
+Dennis Hood: Who decided how it shouldn't
+
+47:46
+
+Dennis Hood: work.
+
+47:49
+
+Dennis Hood: what kind of skills and tools and processes are necessary?
+
+47:52
+
+Dennis Hood: How does it work?
+
+48:02
+
+Dennis Hood: I mean, it seems pretty definitive, like what what happens? What do you think happens? Don't. Try it. What do you think happens if you just
+
+48:06
+
+Dennis Hood: decide you're going to go through airport security and not wait for the gatekeepers to give you permission.
+
+48:15
+
+Dennis Hood: Are you going to successfully make it to your plane?
+
+48:24
+
+Dennis Hood: Probably not.
+
+48:28
+
+Dennis Hood: You'll probably end up in jail.
+
+48:31
+
+Dennis Hood: So
+
+48:35
+
+Dennis Hood: who decided? That was okay. I mean, that's a major inconvenience for passengers, right?
+
+48:37
+
+Dennis Hood: Who decided that's okay.
+
+48:43
+
+Dennis Hood: How would you measure. Is it really okay?
+
+48:48
+
+Dennis Hood: Who's paying for it?
+
+48:52
+
+Dennis Hood: The passengers are paying an inconvenience takes time.
+
+48:56
+
+Dennis Hood: It's inconvenient.
+
+49:00
+
+Dennis Hood: The airports.
+
+49:04
+
+Dennis Hood: maybe the airlines, to some extent may be passed back to the passengers to some extent
+
+49:05
+
+Dennis Hood: are paying for it.
+
+49:13
+
+Dennis Hood: There are people there are tools of various kinds, metal detectors and scanners, and all that kind of stuff. It's not cheap.
+
+49:17
+
+Dennis Hood: Is it worth it? Who decided that it's worth it?
+
+49:29
+
+Dennis Hood: Is it equally worth it
+
+49:35
+
+Dennis Hood: if you're talking to different people involved in the process like. Let's ask the passengers, is this worth it? Then let's ask the airlines. Then let's ask the people running the airport. Then let's ask law enforcement.
+
+49:38
+
+Dennis Hood: they might all have different answers. Right? Is it worth it?
+
+49:51
+
+Dennis Hood: How would we even measure that? How would we conclude, or are we just looking at another subjective thing where we're going to ask people their opinion.
+
+49:56
+
+Dennis Hood: Is it worth it? You tell me, how does it feel in your gut? Does it feel like it's worth it.
+
+50:05
+
+Dennis Hood: What what can we say about something like airport security in terms of the assessment of? Is it worth it? What what is it, you know? Like?
+
+50:12
+
+Dennis Hood: Is it worth? It means, if the answer is yes, it must mean that the benefit is bigger than the cost.
+
+50:28
+
+Dennis Hood: The benefit of doing. The gatekeeping is bigger than the cost of doing the gatekeeping right?
+
+50:35
+
+Dennis Hood: So how would you evaluate that for airport security?
+
+50:44
+
+Dennis Hood: Is it worth it?
+
+50:49
+
+Dennis Hood: What is it? What are the costs? What are the benefits? Is it worth it?
+
+50:52
+
+Dennis Hood: I mean, what does your gut tell you? Is it worth it?
+
+50:59
+
+Dennis Hood: Yes, no.
+
+51:08
+
+Dennis Hood: Did anyone fly anywhere last week?
+
+51:11
+
+Dennis Hood: What do you think
+
+51:20
+
+Dennis Hood: it? It's okay to respond subjectively.
+
+51:34
+
+Dennis Hood: It's okay to start any assessment
+
+51:40
+
+Dennis Hood: with a gut reaction and work from there.
+
+51:44
+
+Dennis Hood: So let me just make it as simple as possible. Do you think airport security is worth it?
+
+51:48
+
+Darek Nowak: This without an explanation? Yes.
+
+51:57
+
+Dennis Hood: as a as a passenger.
+
+52:00
+
+Dennis Hood: Yes. Well. I would say
+
+52:04
+
+Dennis Hood: so. Here's another thing about the whole metrics and assessment of process, improvement and all that kind of stuff.
+
+52:10
+
+Dennis Hood: We're gonna have a lot of trouble with the sophisticated nature of software development and a lot of the intangible nature of the work products that are hard to measure like productivity out of lines of code or whatever we're going to have a lot of trouble actually solving these problems. So where we can make things
+
+52:15
+
+Dennis Hood: truly measurable and objective, and all that kind of stuff we're talking about sophisticated stuff that defies
+
+52:35
+
+Dennis Hood: that kind of measurement, that kind of specificity and objectivity.
+
+52:42
+
+Dennis Hood: But you know what.
+
+52:48
+
+Dennis Hood: Sometimes a lot of times
+
+52:51
+
+Dennis Hood: we don't have to come to those definitive conclusions
+
+52:54
+
+Dennis Hood: to make progress like the the whole thing I was saying about
+
+52:59
+
+Dennis Hood: the the hiring process.
+
+53:04
+
+Dennis Hood: We just have to
+
+53:10
+
+Dennis Hood: get enough information
+
+53:11
+
+Dennis Hood: out of a an attempted improvement to the process, like that extra round of interviews or something. We just have to get enough information to where we get a fairly good assessment
+
+53:15
+
+Dennis Hood: that the new way of doing it is working better than the old way
+
+53:30
+
+Dennis Hood: it doesn't have to be a 100% definitive. It doesn't necessarily have to be something backed with numbers. It just has to be something where we have enough
+
+53:33
+
+Dennis Hood: information that it is reasonable to assess one way or the other.
+
+53:44
+
+Dennis Hood: So with regards to the gatekeeping of airport security. if the passengers say it's worth it.
+
+53:52
+
+Dennis Hood: Then I think it's probably worth it.
+
+54:05
+
+Dennis Hood: because the passengers are the ones who suffer the most.
+
+54:07
+
+Dennis Hood: Yeah, I have to be a little bit careful because there are costs coming from a lot of different. There are costs coming from a lot of different places the time and effort and inconvenience to the customers. That's a big
+
+54:14
+
+Dennis Hood: chunk of cost that's hard to turn into numbers right
+
+54:27
+
+Dennis Hood: inconvenience.
+
+54:33
+
+Dennis Hood: How do we put a number on that? Can you put a dollar figure on that.
+
+54:36
+
+Dennis Hood: I mean, the time time is money. Yeah. But you know.
+
+54:40
+
+Dennis Hood: people are just going through the airport to get on their plane. It's hard to measure in a direct way the cost of their time.
+
+54:44
+
+Dennis Hood: It's not insignificant. Don't get me wrong if they miss their flight. There's a there's a tangible cost waiting if they
+
+54:54
+
+Dennis Hood: missed their flight, and that causes them to miss an important business meeting or something like that. There's a number of ways that can turn into something real, but for the most part for customers in that situation, for passengers at the airport.
+
+55:03
+
+Dennis Hood: The time the extra time is just kind of built in.
+
+55:16
+
+Dennis Hood: We all know these days. You have to get to the airport a little bit earlier than you would like, because you're gonna have to go through security, and that can take some time. You might have to take your shoes off, or something, and that can take some time. Take your laptop out of your bag, and then you have to put it back later. That takes a little bit of time, so get there a little bit early. The lines might be long.
+
+55:22
+
+Dennis Hood: You'll still make your flight.
+
+55:41
+
+Dennis Hood: If you had to leave your house an hour earlier than you otherwise would have. That hour is worth something. But what were you gonna do with that hour, anyway? I know that's being Judy, and you might have a good answer, so I don't want to judge too much.
+
+55:43
+
+Dennis Hood: but it points to the difficulty in assessing the cost. the inconvenience
+
+55:58
+
+Dennis Hood: of being inspected in this way. That's intrusive, and you gotta take your laptop or out, and the shoes off, and all that kind of stuff, you know. There's inconvenience.
+
+56:06
+
+Dennis Hood: no doubt.
+
+56:15
+
+Dennis Hood: What is the cost of that?
+
+56:18
+
+Dennis Hood: I don't. I I don't know that that's a very easy to. I don't think that's a very easy thing to evaluate, but there is a cost. There's no doubt there's a cost.
+
+56:20
+
+Dennis Hood: There are much more tangible cost to the whole airport security thing. You're paying the the Tsa type people. You buy the equipment you have to calibrate the equipment, maintain the equipment, Train people on how to use the equipment.
+
+56:30
+
+Dennis Hood: There's a whole lot that actually calls money.
+
+56:43
+
+Dennis Hood: so we can throw that in there, too. But for the passengers
+
+56:49
+
+Dennis Hood: it's this whole thing of you know it. It just takes extra time, and it's inconvenient, and all this other kind of stuff.
+
+56:53
+
+Dennis Hood: at least some of that other cost is being passed on to those same
+
+57:02
+
+Dennis Hood: passengers. Right? So your ticket to get on your plane is costing a little bit more because of all of this secure. You're paying for the privilege of having to take your shoes off and be inspected in this way.
+
+57:07
+
+Dennis Hood: So how could the passenger say it's worth it.
+
+57:20
+
+Dennis Hood: If they say it's worth it, then I think it probably is because if they think it's worth it, then everybody else the people who just do this for a living. They're getting paid like the Tsa. They're being paid to do it.
+
+57:24
+
+Dennis Hood: They don't have a flight to catch.
+
+57:37
+
+Dennis Hood: It's just them doing their job, which they're being paid for.
+
+57:39
+
+Dennis Hood: So for them. Of course it's worth it because they're getting paid to do it.
+
+57:43
+
+Dennis Hood: I know we have to dig into. We would have to dig into some elements of that
+
+57:50
+
+Dennis Hood: like, do the airlines does the airport? You know? What do these people think. But I think if the passenger said
+
+57:56
+
+Dennis Hood: it's worth it, and the justification, I think you would agree
+
+58:04
+
+Dennis Hood: is around security.
+
+58:09
+
+Dennis Hood: So why is it worth it, because then you feel safer you feel more comfortable with the whole thing. That's another thing to
+
+58:11
+
+Dennis Hood: struggle with when it comes to putting a dollar sign next to it. I don't know how you put
+
+58:18
+
+Dennis Hood: comfort in a spreadsheet with a dollar sign.
+
+58:23
+
+Dennis Hood: but it maybe it's because it's one of those things that is really worth a lot.
+
+58:29
+
+Dennis Hood: and we don't have to get too specific with the dollars. It's just worth a lot.
+
+58:34
+
+Dennis Hood: So if the passengers look at the whole security thing and say. I know I have to get to the airport earlier than I otherwise would like to. I know it's inconvenient. I know it's intrusive. but it's worth it
+
+58:40
+
+Dennis Hood: because of the peace of mind that I get from the whole thing.
+
+58:53
+
+Dennis Hood: Then the whole thing is probably worth it, because everybody else would look at it and say.
+
+58:59
+
+Dennis Hood: Yeah, it's it's fine for me. No, Tsa agents say, I get paid to do it. So yeah, it's fine for me. I'm glad it's there.
+
+59:04
+
+Dennis Hood: The people who wouldn't like it would be, you know, like the bad people trying to do bad things that get caught in security.
+
+59:13
+
+Dennis Hood: They're the ones who say it's not worth it. We don't care about their opinion. I mean, that would be another thing that we would have to factor in. But that would make it too different from software. We don't have that in the software kind of inspection.
+
+59:20
+
+Dennis Hood: So maybe we have some of the same benefit, like the programmers in a software development effort that have to produce something and then put it up for inspection
+
+59:34
+
+Dennis Hood: in the form of a prototype, a growing prototype where there's more and more of a working
+
+59:45
+
+Dennis Hood: system that they're putting together, and it is being put up for inspection. That's an inconvenience for them. They actually have to package up
+
+59:51
+
+Dennis Hood: what they're working on, so that it can be reviewed. That's a pain in the neck that takes extra time takes extra work.
+
+1:00:01
+
+Dennis Hood: So if they think it's a good idea. If they think it's worth it.
+
+1:00:10
+
+Dennis Hood: then it probably is. Who else
+
+1:00:15
+
+Dennis Hood: is involved in this whole process? Well, just like airport security, we can find a number of stakeholder groups, but definitely the engineers. That's one and definitely the users. That's another.
+
+1:00:18
+
+Dennis Hood: Well, the users are just getting a sneak preview of the product that they're gonna get.
+
+1:00:30
+
+Dennis Hood: And they're being given the opportunity to critique it where that criticism. at least in theory is going to be pumped right into improving the system.
+
+1:00:36
+
+Dennis Hood: so is it worth it for them to go through this review.
+
+1:00:48
+
+Dennis Hood: They get nothing but benefit. I mean, the only cost to them is, they have to show up and do their review, but they get such benefit from that. They it's giving them a voice into the development system. So
+
+1:00:53
+
+Dennis Hood: they're going to say it's worth it.
+
+1:01:04
+
+Dennis Hood: The ones who might disagree would be the programmers. And absolutely, if that becomes too intrusive. How would it get too intrusive?
+
+1:01:06
+
+Dennis Hood: How would airport security get to intrusive to where the passengers would say, it's not worth it anymore.
+
+1:01:17
+
+Dennis Hood: If you had to show more credentials.
+
+1:01:26
+
+Dennis Hood: If you
+
+1:01:30
+
+Dennis Hood: had to spend more time instead of 2 h before your flight, you have to show up to the airport 24 h before your flight.
+
+1:01:31
+
+Dennis Hood: if you have to go through more intrusive testing.
+
+1:01:39
+
+Dennis Hood: and I don't even want to think about it. But you know what I mean. If it if it had to be much more intrusive, testing much more of an inconvenience, much more of an imposition.
+
+1:01:44
+
+Dennis Hood: much more time. if much more of the cost was passed on to you, so your ticket prices double
+
+1:01:55
+
+Dennis Hood: in there somewhere is a limit to what the passengers would accept. and they would no longer think that it's worth it.
+
+1:02:03
+
+Dennis Hood: and then we'd have to look at the whole thing
+
+1:02:11
+
+Dennis Hood: a little bit further. But airport security is much more intrusive than it was pre 9, 11, 9, 11 changed a lot about airport security pre 911.
+
+1:02:14
+
+Dennis Hood: It wasn't anywhere near as intrusive, and in such an infant in position and inconvenience, and
+
+1:02:28
+
+Dennis Hood: it wasn't nearly as as as expensive as it is now.
+
+1:02:35
+
+Dennis Hood: so
+
+1:02:42
+
+Dennis Hood: we could go back to that right.
+
+1:02:45
+
+Dennis Hood: What if we went back to that everyone would get through faster. It wouldn't cost as much. The passengers would like those improvements. but the peace of mind goes away too.
+
+1:02:48
+
+Dennis Hood: It's not a perfect assessment by any stretch. But, generally speaking, what we see. And and one of the reasons I say it's imperfect is, we know that not. Everyone is okay with it. There are plenty of people who take the bus or drive instead of
+
+1:03:05
+
+Dennis Hood: flying, because flying is so inconvenient
+
+1:03:20
+
+Dennis Hood: and take so long, and it's expensive, and all that other kind of stuff. Some people decide I'll just stay home instead
+
+1:03:23
+
+Dennis Hood: staycation.
+
+1:03:31
+
+Dennis Hood: But there is a point where
+
+1:03:36
+
+Dennis Hood: the peace of mind would be outweighed by a the various costs, including things like the inconvenience, the imposition, all that kind of stuff. There's a point where it would no longer be worth it.
+
+1:03:40
+
+Dennis Hood: And arguably
+
+1:03:52
+
+Dennis Hood: everything is kind of settling in airport. Security has changed a lot since 9 11.
+
+1:03:54
+
+Dennis Hood: There's more automation, for instance.
+
+1:04:02
+
+Dennis Hood: There's more sophisticated automation with the tools that are used to help the humans
+
+1:04:04
+
+Dennis Hood: make better assessments. There are various things in the process. You don't always have to take your shoes off. It depends on where you are.
+
+1:04:11
+
+Dennis Hood: If you have tsa pre tsa pre is a thing that didn't exist before any of this, and it was incorporated to make
+
+1:04:19
+
+Dennis Hood: they process
+
+1:04:26
+
+Dennis Hood: more efficient, less of an imposition
+
+1:04:29
+
+Dennis Hood: for certain people. Basically If you could buy your way in
+
+1:04:32
+
+Dennis Hood: to being a Tsa pre person. Then you got this benefit. So that's a process improvement thing, right in recognition of the fact that the whole thing was teetering right on the edge of maybe being too intrusive, too much of an in position.
+
+1:04:37
+
+Dennis Hood: Process. Improvement is continually being done.
+
+1:04:56
+
+Dennis Hood: but not sacrificing
+
+1:05:04
+
+Dennis Hood: the aspect that delivers peace of mind. These things are difficult to measure peace of minds hard to measure right.
+
+1:05:07
+
+Dennis Hood: But we do have kind of this sense that you know. The proof is in the pudding.
+
+1:05:16
+
+Dennis Hood: Everybody's happy with it. Everybody
+
+1:05:21
+
+Dennis Hood: is accepting of it, or at least a high enough percentage of people are accepting of it. Then I guess it's worth it.
+
+1:05:23
+
+Dennis Hood: That's one way to look at it. So
+
+1:05:31
+
+Dennis Hood: there, there's a couple of important things that are difficult to match up to software. Development between like airport security and software
+
+1:05:36
+
+Dennis Hood: checkpoints, gatekeeping in a software environment versus something like security.
+
+1:05:44
+
+Dennis Hood: Why can't you just go through? I mean it. It
+
+1:05:53
+
+Dennis Hood: does it hold in software development. When we have a checkpoint.
+
+1:05:57
+
+Dennis Hood: First of all, we have to put them in just like in the airport. The infrastructure exists the physical infrastructure, the layout of the airport is such that you can have a checkpoint with authority.
+
+1:06:02
+
+Dennis Hood: You don't get to just skip it.
+
+1:06:16
+
+Dennis Hood: Software Development doesn't have that inherently right. That has to be built in the checkpoints have to be made part of the process Airport security. It's a physical layout You cannot get from outside the airport all the way to your plane without going through security.
+
+1:06:19
+
+Dennis Hood: I have to be a little bit careful, because nothing is perfect.
+
+1:06:39
+
+Dennis Hood: but it's really really hard. and it is really really risky
+
+1:06:43
+
+Dennis Hood: to try to get around the security.
+
+1:06:48
+
+Dennis Hood: And that's part of the process that makes it part of the effectiveness
+
+1:06:52
+
+Dennis Hood: in terms of how thoroughly it is used
+
+1:06:58
+
+Dennis Hood: are a 100%
+
+1:07:02
+
+Dennis Hood: of the passengers inspected
+
+1:07:04
+
+Dennis Hood: that a 100% effectiveness. You know that that kind of absoluteism.
+
+1:07:09
+
+Dennis Hood: Probably the the answer would be close, but not all the way to 100. We'd have to dig into that more. If we were designing airports of the future. We would do that. We're talking about software. So do we have the physical
+
+1:07:17
+
+Dennis Hood: infrastructure to support getting towards a 100% coverage. No.
+
+1:07:32
+
+Dennis Hood: the intangible nature of software makes that really, really difficult.
+
+1:07:39
+
+Dennis Hood: We can build into the process the checkpoints. We should. We should have defined evaluation
+
+1:07:46
+
+Dennis Hood: at various points along the way. So we have support for an iterative development process. Is it worth it? Well, we're going to have to watch because
+
+1:07:55
+
+Dennis Hood: we'll be teetering on the edge, where, if we impose too much like if we have those tests.
+
+1:08:04
+
+Dennis Hood: those evaluation points every day or every hour, or something like that, then people are going to say, No, it's not worth it anymore.
+
+1:08:09
+
+Dennis Hood: But that's okay. We'll use that as a means of evolving to something that is worth it. If we if we
+
+1:08:18
+
+Dennis Hood: don't have the good feedback. If the evaluations don't provide good feedback.
+
+1:08:26
+
+Dennis Hood: then it will not feel like it's worth it. We'll have to work to improve the feedback mechanism. If the evaluations are taking place too frequently.
+
+1:08:33
+
+Dennis Hood: and people are gonna say this is more of a bother. It's not really worth it, because we spend more time with evaluation than actually writing the code. and we'll have to back away from that. That's process improvement happening.
+
+1:08:43
+
+Dennis Hood: But it is important to note that, unlike security bank security at an airport security at lots of physical places. Software doesn't have that kind of built in
+
+1:08:55
+
+Dennis Hood: foundational
+
+1:09:08
+
+Dennis Hood: checkpoint, gatekeeping aspect to it.
+
+1:09:11
+
+Dennis Hood: You can write the software
+
+1:09:15
+
+Dennis Hood: and skip the evaluation. You could put something together and even show up for an evaluation. but not be showing all of the code that's been written.
+
+1:09:19
+
+Dennis Hood: Now. Why, you would want to do that. Well, there could be a variety of reasons. The code is not ready.
+
+1:09:33
+
+Dennis Hood: You didn't have enough time to write everything
+
+1:09:39
+
+Dennis Hood: There's a lot of motivation
+
+1:09:44
+
+Dennis Hood: to, if you know you're a good person. You're not one of those terrorist type
+
+1:09:47
+
+Dennis Hood: for you to skip the line for you to go through. Tse Pre for you to skip it all together if you could. You know you're a good person.
+
+1:09:52
+
+Dennis Hood: The problem would be if you could do it.
+
+1:10:02
+
+Dennis Hood: then anybody could do it. So a software developer, if a software developer
+
+1:10:06
+
+Dennis Hood: could just skip the evaluation. Maybe, you know, you know you're writing good code.
+
+1:10:11
+
+Dennis Hood: So you're just going to save yourself some time and effort by skipping the evaluation.
+
+1:10:17
+
+Dennis Hood: The whole thing starts to break down. But the intentional nature of software says that is a possibility.
+
+1:10:22
+
+Dennis Hood: It is possible to not present code for evaluation, not all of it. You just have to make it look like everything is there?
+
+1:10:29
+
+Dennis Hood: There's also issues like you know. What if the engineers say we're not ready today. I know we're supposed to have one of those customer meetings and show off a prototype. But we're not ready.
+
+1:10:42
+
+Dennis Hood: What are you? What are you gonna do about it? It's not. It's not worth it to put in complete stuff. even when it's prototyping everything you know it's not done, done. But
+
+1:10:52
+
+Dennis Hood: if it's not even done enough
+
+1:11:05
+
+Dennis Hood: for the evaluation that's supposed to take place some kind of prototype evaluation with
+
+1:11:08
+
+Dennis Hood: defined scope of what that prototype is is to contain. If it's not there, then it's not worth having the Review session, right?
+
+1:11:13
+
+Dennis Hood: So it's built into the process. That that's that's a logical conclusion like we we just won't do the evaluation today as scheduled. Now, that's not so bad on the surface, because presumably you're not moving past the gate.
+
+1:11:22
+
+Dennis Hood: You're just not going to the gate for inspection yet. But you're still gonna have to in the future. But we know that when you combine these things
+
+1:11:39
+
+Dennis Hood: in the world of software development. the whole gatekeeping thing.
+
+1:11:48
+
+Dennis Hood: lax structure.
+
+1:11:53
+
+Dennis Hood: we have to have a defined process that says these things need to be scheduled. These things need to be conducted in a certain way. People have to be trained to do inspections.
+
+1:11:56
+
+Dennis Hood: People have to be trained to collect feedback from inspections. People have to be trained properly to incorporate that feedback in future versions. We have to build all that structure in. It's not natural. It is not a natural occurring thing.
+
+1:12:07
+
+Dennis Hood: And where is the discipline? What happens when software goes through some kind of evaluation, some kind of traditional reactive test.
+
+1:12:23
+
+Dennis Hood: The software developers have created
+
+1:12:39
+
+Dennis Hood: the actual executable. Maybe it's not a 100% done. But certain pieces of functionality are 100% done.
+
+1:12:42
+
+Dennis Hood: And it says on the schedule that's supposed to be presented for evaluation by software testers executing test cases.
+
+1:12:50
+
+Dennis Hood: What happens if it fails, like 2 out of 100 tests.
+
+1:12:59
+
+Dennis Hood: we don't go forward right You're not allowed through the gate.
+
+1:13:04
+
+Dennis Hood: Is that true?
+
+1:13:10
+
+Dennis Hood: I mean.
+
+1:13:13
+
+Dennis Hood: What if the 2 tests that failed were the least important, and the other stuff passed with flying colors. Maybe it'd be okay to go ahead and move forward.
+
+1:13:14
+
+Dennis Hood: I mean, after all.
+
+1:13:25
+
+Dennis Hood: fixing bugs and a piece of software. You know you're doing that as you're writing new code, anyway. So yes, we failed a couple of tests. We know we've got some defects.
+
+1:13:27
+
+Dennis Hood: The next phase is for us to add some functionality while we're adding the new functionality as part of the next phase. We'll also remove those defects. Don't worry about it.
+
+1:13:38
+
+Dennis Hood: And now we're skipping past the gate, even though we failed, tests.
+
+1:13:48
+
+Dennis Hood: happens all the time
+
+1:13:53
+
+Dennis Hood: it takes discipline to not do that a lot of discipline. As a matter of fact.
+
+1:13:55
+
+Dennis Hood: you could have it written down that thou shall not pass through the gate with any failed tests.
+
+1:14:00
+
+Dennis Hood: You have to have
+
+1:14:09
+
+Dennis Hood: perfect code before you get to pass through the gate. You could tell the programmers. If you, If your code fails anything.
+
+1:14:10
+
+Dennis Hood: You're not allowed to write any more code until you fix those defects. How do you know they're not writing more code?
+
+1:14:17
+
+Dennis Hood: They tell you they're going back to the desk to their cubicle to remove defects. and while they're back they're doing that you have no idea what they're typing.
+
+1:14:25
+
+Dennis Hood: so they could be hammering out the code for next week's
+
+1:14:36
+
+Dennis Hood: defined endpoint to be reviewed. How would you know
+
+1:14:41
+
+Dennis Hood: the intangible nature of software makes it possible to blow through gates like that.
+
+1:14:46
+
+Dennis Hood: We need structure. We need authority to make it look more like security to bank security at the airport.
+
+1:14:53
+
+Dennis Hood: and it's hard to do that when everything is so intangible like it is in the software world.
+
+1:15:03
+
+Dennis Hood: The code is being typed by a bunch of programmers. The design information is being created by a bunch of architects, and they're doing it in modeling languages and things like that.
+
+1:15:12
+
+Dennis Hood: The prototypes are being put together, using drag and drop some place.
+
+1:15:23
+
+Dennis Hood: The definition of
+
+1:15:28
+
+Dennis Hood: acceptable can be difficult. I mean failing a test that's pretty direct.
+
+1:15:32
+
+Dennis Hood: But does the test truly match the requirements that takes a lot of work. The requirements can be ambiguous at times. So we have a lot of work to go to make sure that the tests a failure of a test truly indicates that the system should not move forward.
+
+1:15:39
+
+Dennis Hood: It's difficult to capture all of the requirements. How do we know? How do we know how many they're supposed to be.
+
+1:15:58
+
+Dennis Hood: And therefore how do we know the testing is complete? We don't even know if the requirements are complete.
+
+1:16:04
+
+Dennis Hood: It's a Lucy goosey environment that we're talking about. But the benefit of having these checkpoints and the benefit of making them
+
+1:16:12
+
+Dennis Hood: authoritative like true gates being capped.
+
+1:16:23
+
+Dennis Hood: is that we methodically produce the system and evolve it.
+
+1:16:29
+
+Dennis Hood: iteration by iteration
+
+1:16:35
+
+Dennis Hood: with good feedback being incorporated as we go. and defects being discovered
+
+1:16:38
+
+Dennis Hood: shortly after they are inserted into the system, not on purpose
+
+1:16:47
+
+Dennis Hood: and removed. Once they're discovered they're removed.
+
+1:16:52
+
+Dennis Hood: That's the benefit of a discipline process. We just have to do a lot of work to make that a reality. It's all good idea type stuff.
+
+1:16:57
+
+Dennis Hood: We have to make it a reality.
+
+1:17:10
+
+Dennis Hood: So we talk some about metrics. We'll talk more on Thursday. The other thing that's in here for the participation. It's a big part of the notes. It's my project management stuff spilling out all over the place is this concept of earn value management.
+
+1:17:12
+
+Dennis Hood: So it's in the notes. I ask you to reflect on it as part of the participation.
+
+1:17:28
+
+Dennis Hood: We'll. We'll talk more on Thursday because it is a concept that we need to get into. Please make sure that I
+
+1:17:36
+
+Dennis Hood: kind of draw it out. It is not a method it's not used that much.
+
+1:17:43
+
+Dennis Hood: It's an old thing that was never, you know. It's like too formal.
+
+1:17:50
+
+Dennis Hood: So a lot of places doing software development are not that formal in terms of even having official project managers and stuff. And even if they do, the formality of
+
+1:17:56
+
+Dennis Hood: a process, a concept like our in value, management being part of the process that's asking a lot, and that that's not where I'm going with this. What I want is
+
+1:18:08
+
+Dennis Hood: I want you to be able to think in terms of measuring the true productivity work being completed.
+
+1:18:18
+
+Dennis Hood: and where that can fit into the software quality manager's role. That's why I have it in the notes.
+
+1:18:26
+
+Dennis Hood: Okay, so please make sure that I talk about that on Thursday and actually draw some stuff out for you.
+
+1:18:34
+
+Dennis Hood: All right. So if you haven't, please read the article. It has a lot of this stuff
+
+1:18:41
+
+Dennis Hood: kind of spelled out better than I could present it. I'm sure
+
+1:18:46
+
+Dennis Hood: and
+
+1:18:50
+
+Dennis Hood: and then we'll pick up with
+
+1:18:51
+
+Dennis Hood: trying to build in some of that structure and making things more disciplined than definitive and authoritative and measurable on Thursday. Sound good.
+
+1:18:54
+
+Dennis Hood: All right, thanks. I'll see you Thursday.
